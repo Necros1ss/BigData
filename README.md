@@ -165,5 +165,5 @@ YOUTUBE_API_KEY=your_api_key_here
 
 # 📚 Course Information
 
-IS405.Q23 / DS200.M21 - Big Data  
+IS405.Q23 - Big Data  
 University of Information Technology - VNUHCM
